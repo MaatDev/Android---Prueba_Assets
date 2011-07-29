@@ -1,0 +1,11 @@
+1*Ceviche Mixto*ceviche_mixto*1*1
+2*Ceviche de Pescado*ceviche_de_pescado*1*1
+3*Ceviche de Conchas Negras*ceviche_de_conchas_negras*1*1
+4*Ceviche de Trucha*ceviche_de_trucha*1*1
+5*Ceviche de Langostinos*ceviche_de_langostinos*1*1
+6*Ceviche de Pulpo*ceviche_de_pulpo*1*1
+7*Ceviche de Cangrejo*ceviche_de_cangrejo*1*1
+8*Ceviche de Pescado al Estilo de Chiclayo*ceviche_de_chiclayo*1*1
+9*Ceviche de Pejerreyes*ceviche_de_pejerrey*1*1
+10*Ceviche de Pescado al Estilo Thai*ceviche_estilo_thai*1*1
+11*Ceviche de Camarones*ceviche_de_camarones*1*1
